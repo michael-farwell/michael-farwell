@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pythby9" target="blank"><img src="https://img.shields.io/twitter/follow/pythby9?logo=twitter&style=for-the-badge" alt="pythby9" /></a> </p>
 
-- 🌱 I’m currently learning **Svelte, Nest.js, FastAPI**
+- 🌱 I’m currently learning **Go and FastAPI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
