@@ -51,4 +51,7 @@ I am a Senior Software Developer from Maine 🌲
 
 ### 🔥 My Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=michael-farwell&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+  <img align="center" src="https://streak-stats.demolab.com?user=michael-farwell&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-farwell&theme=dark&count_private=true&show_icons=true" />
+</div>
