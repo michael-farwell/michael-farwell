@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michael-farwell&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="michael-farwell" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-farwell&show_icons=true&theme=gruvbox&locale=en" alt="michael-farwell" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-farwell&show_icons=true&count_private=true&theme=gruvbox&locale=en" alt="michael-farwell" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michael-farwell&theme=dark" alt="michael-farwell" /></p>
