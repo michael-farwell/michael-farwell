@@ -21,12 +21,13 @@
 </div>
 
 ---
+
 ### 👨‍💻 About Me:
 I am a Senior Software Developer from Maine 🌲
 - :telescope: I’m working as a Senior Software Developer at Lie-Nielsen Toolsworks
-
 - :seedling: Learning C++
 ---
+
 ### 🛠️ Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -45,7 +46,9 @@ I am a Senior Software Developer from Maine 🌲
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg"  title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"  title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
 ---
+
 ### 🔥 My Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=michael-farwell&theme=dark)](https://git.io/streak-stats)
