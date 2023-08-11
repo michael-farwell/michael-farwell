@@ -46,12 +46,3 @@ I am a Senior Software Developer from Maine 🌲
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg"  title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"  title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### 🔥 My Stats:
-
-<div align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=michael-farwell&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-farwell&theme=dark&count_private=true&show_icons=true" />
-</div>
