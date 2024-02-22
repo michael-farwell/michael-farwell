@@ -16,7 +16,7 @@
   </div>
   
   <div>
-    <a href="https://app.daily.dev/pythby9"><img src="https://api.daily.dev/devcards/v2/mgm1hYQSX.png?r=zmi&type=default" width="356" alt="Michael Farwell's Dev Card"/></a>
+    <a href="https://app.daily.dev/pythby9"><img src="https://api.daily.dev/devcards/v2/mgm1hYQSX.png?type=default&r=2mk" width="356" alt="Michael Farwell's Dev Card"/></a>
   </div>
 </div>
 
