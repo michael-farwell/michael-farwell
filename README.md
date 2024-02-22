@@ -16,7 +16,7 @@
   </div>
   
   <div>
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+    <a href="https://app.daily.dev/pythby9"><img src="https://api.daily.dev/devcards/v2/mgm1hYQSX.png?r=zmi&type=default" width="356" alt="Michael Farwell's Dev Card"/></a>
   </div>
 </div>
 
